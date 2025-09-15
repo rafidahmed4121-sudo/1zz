@@ -42,7 +42,7 @@ defaults:
 
 env:
   RDP_USER: Fuad
-  RDP_PASS: Fuad@123
+  RDP_PASS: Fuad@12345
   TS_HOSTNAME: Fuad
 
 jobs:
