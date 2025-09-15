@@ -49,7 +49,7 @@ defaults:
 env:
   RDP_USER: Fuad
   RDP_PASS: Fuad@12345
-  TS_HOSTNAME: bullet
+  TS_HOSTNAME: Fuad
 
 jobs:
   rdp:
