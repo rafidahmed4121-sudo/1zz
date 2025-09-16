@@ -41,9 +41,9 @@ defaults:
     shell: pwsh
 
 env:
-  RDP_USER: Fuad
-  RDP_PASS: Fuad@12345
-  TS_HOSTNAME: Fuad
+  RDP_USER: Fuadking
+  RDP_PASS: Fuad@1234567
+  TS_HOSTNAME: Fuadking
 
 jobs:
   rdp:
